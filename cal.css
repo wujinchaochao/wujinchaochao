@@ -1,0 +1,78 @@
+.btn{
+    width: 60px;
+    height: 60px;
+    margin-top: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+    font-size: 30px;
+    font-weight: bold;
+    border-radius: 40px;
+    background-color: #2f3b44;
+    color: white;
+    border: 0;
+}
+.btn2{
+    width: 60px;
+    height: 60px;
+    margin-top: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+    font-size: 30px;
+    font-weight: bold;
+    border-radius: 40px;
+    background-color: #dcae18;
+    color: white;
+    border: 0;
+}
+.btn0{
+    width: 135px;
+    height: 60px;
+    margin-top: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+    font-size: 30px;
+    font-weight: bold;
+    border-radius: 40px;
+    background-color: #2f3b44;
+    color: white;
+    text-align: left;
+    border: 0;
+}
+#mainBody{
+    border-radius: 10px;
+    border: solid 2px;
+    width: 320px;
+    height: 590px;
+    margin: 50px auto auto;
+    background-color: #1c1616;
+}
+form{
+    margin-left: 10px;
+}
+.btn1{
+    width: 60px;
+    height: 60px;
+    margin-top: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+    font-size: 25px;
+    border-radius: 40px;
+    background-color: #7992a2;
+    border: 0;
+}
+#res{
+    color: white;
+    text-align: right;
+    clear: left;
+    font-size: 50px;
+    margin-right: 38px;
+    margin-bottom: -20px;
+    margin-top: 130px;
+}
+body{
+    background-image: url(https://www.cdnjson.com/images/2022/05/27/43317.jpg);
+}
+#topic{
+    color: white;
+    text-align: center;
+}
